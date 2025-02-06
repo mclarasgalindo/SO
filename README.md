@@ -10,8 +10,7 @@ A evolução dos sistemas operacionais pode ser dividida em três níveis, confo
 
 **Terceiro Nível (anos 1970)**: Neste nível, surgiram sistemas operacionais muito mais avançados, com tradutores de alto desempenho que permitiram o uso de linguagens de programação mais próximas da linguagem humana. Isso acelerou a produção de programas e facilitou o aprendizado de novas linguagens de programação.
 
-![sistemas operacionais](https://s2-techtudo.glbimg.com/KacZQTEPNwgmryTPHrZcrwF1XHc=/0x0:601x379/1000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2023/5/K/F4LNSlRpS7AJe6r5EtGQ/imagem-2023-03-23-192056090.png2)
-
+![sistemas operacionais](https://www.locaweb.com.br/blog/wp-content/uploads/2023/07/Sistema-operacional-capa.jpg)
 ## Windows
 O Windows é um sistema operacional desenvolvido pela Microsoft que facilita a interação dos usuários com computadores por meio de uma interface gráfica, permitindo o uso de aplicativos, gerenciamento de arquivos e execução de tarefas diversas. Sua importância está na popularização da **interface gráfica de usuário (GUI)**, ampla compatibilidade com hardware e software, suporte robusto a jogos e ferramentas de desenvolvimento, além de recursos de segurança e integração com o ecossistema da Microsoft, como **OneDrive** e **Office 365**. O Windows se tornou essencial tanto para usuários domésticos quanto empresariais, sendo a plataforma dominante em computadores pessoais.
 
@@ -43,3 +42,15 @@ O Windows 10, lançado em 15 de julho de 2015, foi uma mudança significativa, s
 Lançado em 5 de outubro de 2021, o Windows 11 apresenta um visual mais clean e minimalista, com ícones remodelados, janelas translúcidas e um Menu Iniciar centralizado. O sistema também trouxe melhorias em produtividade, como novos layouts snaps, integração com Microsoft Teams e suporte aprimorado a desktops virtuais. Usuários do Windows 10 podem atualizar para o Windows 11 via Windows Update ou assistente de instalação, desde que o computador atenda aos requisitos mínimos. Para gamers, o Windows 11 introduziu a tecnologia Direct Storage, que promete acelerar o carregamento de jogos.
 
 ## Arquitetura
+A arquitetura do Windows é composta por várias camadas que trabalham juntas para garantir o funcionamento do sistema. No nível mais baixo, temos o hardware, seguido pelo kernel, que gerencia a interação com o hardware e os recursos do sistema. O Windows também conta com um sistema de arquivos, como o NTFS, para organizar o armazenamento de dados, e APIs que permitem que os aplicativos interajam com o sistema. A interface gráfica (GUI) facilita a interação do usuário, enquanto os drivers de dispositivo garantem a comunicação com o hardware. Além disso, o sistema possui serviços essenciais que rodam em segundo plano, como redes e segurança, e recursos de segurança, como o Controle de Conta de Usuário (UAC) e criptografia. Essa estrutura modular e integrada permite ao Windows ser flexível, seguro e eficiente em diversas configurações de hardware e necessidades de uso.
+
+## codigos
+
+
+
+
+
+
+
+## Curiosidades
+1. 
