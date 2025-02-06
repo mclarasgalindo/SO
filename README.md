@@ -38,7 +38,7 @@ O Windows 7, lançado em 22 de outubro de 2009, trouxe melhorias significativas,
 ## Windows 10
 O Windows 10, lançado em 15 de julho de 2015, foi uma mudança significativa, sendo oferecido como um serviço, com atualizações contínuas e gratuitas para todos os usuários. O sistema aprimorou a usabilidade, combinando um design mais convencional que funciona bem tanto em telas sensíveis ao toque quanto em desktops, respondendo às críticas do Windows 8. Inclui recursos como Paint 3D, Modo Jogo para melhorar o desempenho, a assistente virtual Cortana e o aplicativo Xbox, que permite transmitir jogos do Xbox One para dispositivos Windows 10 e criar vídeos de gameplay para compartilhar.
 
-## Winwdos 11
+## Windows 11
 Lançado em 5 de outubro de 2021, o Windows 11 apresenta um visual mais clean e minimalista, com ícones remodelados, janelas translúcidas e um Menu Iniciar centralizado. O sistema também trouxe melhorias em produtividade, como novos layouts snaps, integração com Microsoft Teams e suporte aprimorado a desktops virtuais. Usuários do Windows 10 podem atualizar para o Windows 11 via Windows Update ou assistente de instalação, desde que o computador atenda aos requisitos mínimos. Para gamers, o Windows 11 introduziu a tecnologia Direct Storage, que promete acelerar o carregamento de jogos.
 
 ## Arquitetura
