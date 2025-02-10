@@ -44,13 +44,43 @@ Lançado em 5 de outubro de 2021, o Windows 11 apresenta um visual mais clean e 
 ## Arquitetura
 A arquitetura do Windows é composta por várias camadas que trabalham juntas para garantir o funcionamento do sistema. No nível mais baixo, temos o hardware, seguido pelo kernel, que gerencia a interação com o hardware e os recursos do sistema. O Windows também conta com um sistema de arquivos, como o NTFS, para organizar o armazenamento de dados, e APIs que permitem que os aplicativos interajam com o sistema. A interface gráfica (GUI) facilita a interação do usuário, enquanto os drivers de dispositivo garantem a comunicação com o hardware. Além disso, o sistema possui serviços essenciais que rodam em segundo plano, como redes e segurança, e recursos de segurança, como o Controle de Conta de Usuário (UAC) e criptografia. Essa estrutura modular e integrada permite ao Windows ser flexível, seguro e eficiente em diversas configurações de hardware e necessidades de uso.
 
-## codigos
+## Comandos
+Para explorar os atalhos do CMD no Windows, é necessário abrir o Prompt de Comando com privilégios de administrador. O Prompt de Comando é uma ferramenta do Windows que permite executar comandos de texto para funções avançadas e resolução de problemas. Para abri-lo, clique no menu iniciar, digite "cmd", clique com o botão direito em "cmd" e selecione "Executar como administrador". No Windows 8, é possível substituir o PowerShell pelo Prompt de Comando no menu.
 
+### . Shutdown -s -t 0
+O comando "shutdown -s -t 0" desliga o Windows imediatamente. Para programar o desligamento, altere o "0" para o número de segundos desejado. Use "shutdown -r" para reiniciar e "shutdown -a" para cancelar.
 
+### . Robocopy
+O comando "robocopy" faz backup e sincroniza pastas sem precisar de software adicional, exceto no Windows XP ou versões anteriores.****
 
+### . Ipconfig /all
+O comando "ipconfig /all" exibe rapidamente todas as informações sobre as conexões de rede do seu PC, de forma mais organizada do que no Painel de Controle.
 
+### . Ping 10.1.1.1
+O comando "ping 10.1.1.1" verifica se um computador está na rede, substituindo o IP pelo endereço ou nome da máquina. Se estiver acessível, aparecerá "Resposta de" com informações da transmissão; caso contrário, será exibido "Host de destino inacessível".
 
+### . Taskkill
+O comando "taskkill" permite fechar um aplicativo sem usar o "Gerenciador de Tarefas". Por exemplo, "taskkill /f /im notepad.exe" fecha o Bloco de Notas forçadamente, usando o nome do programa em vez do PID.
 
 
 ## Curiosidades
-1. 
+ ###  . Assista a Star Wars Episódio IV com o comando "telnet towel.blinkenlights.nl"
+ Com o comando "telnet towel.blinkenlights.nl", você pode assistir a uma versão em texto de *Star Wars Episódio IV* no Prompt do Windows, uma forma divertida de aproveitar o terminal.
+
+ ### . Gates desenvolveu seu primeiro software aos 13 anos
+Bill Gates entrou na Lakeside School, onde descobriu sua paixão por programação e conheceu Paul Allen, seu futuro parceiro na Microsoft. Aos 13 anos, desenvolveu seu primeiro software, um jogo da velha em BASIC, onde os jogadores competiam contra o computador.
+
+### . A primeira coisa em sua lista de coisas para fazer antes de morrer é não morrer
+Em 2013, Gates teve uma sessão “pergunte-me qualquer coisa” no site “Reddit”. Na ocasião, perguntaram a ele o que havia em sua lista de coisas para fazer antes de morrer. A resposta? “Não morrer.”
+```markdown
+![Descrição da Imagem](https://exemplo.com/imagem.png)
+```
+
+ ### . Gates ajustou o software que controlava o cronograma das aulas do ensino médio para que ele participasse das mesmas classes de todas as meninas da escola
+Na Lakeside School, Bill Gates ajudou a codificar o sistema de programação de aulas, e ele e Paul Allen modificaram o software para que Gates estivesse em todas as aulas das meninas. Gates brincou dizendo que foi o único beneficiado, ficando ao lado das garotas legais.
+
+### . Android passou o Windows quando os smartphones se popularizaram
+Antes do Android, o Windows era o sistema operacional mais usado em todo o mundo, independente da plataforma. No entanto, com o surgimento dos smartphones, o Android se tornou o sistema mais popular, representando 40% do uso global.
+
+### . Por pouco que o Windows não se chamaria Windows. 
+Bill Gates iria chamar o sistema operacional de “Interface Manager”, entretanto o nome Windows prevaleceu.
