@@ -1,5 +1,6 @@
 # Sistemas Operacionais
 ### Introdução
+Este trabalho aborda a evolução dos sistemas operacionais, com ênfase no Windows, desde o Windows 95 até o Windows 11, destacando suas inovações. Também são apresentados comandos úteis no Prompt de Comando (CMD) e curiosidades sobre o criador da Microsoft e Windows.
 
 
 
@@ -72,9 +73,6 @@ Bill Gates entrou na Lakeside School, onde descobriu sua paixão por programaç�
 
 ### . A primeira coisa em sua lista de coisas para fazer antes de morrer é não morrer
 Em 2013, Gates teve uma sessão “pergunte-me qualquer coisa” no site “Reddit”. Na ocasião, perguntaram a ele o que havia em sua lista de coisas para fazer antes de morrer. A resposta? “Não morrer.”
-```markdown
-![Descrição da Imagem](https://exemplo.com/imagem.png)
-```
 
  ### . Gates ajustou o software que controlava o cronograma das aulas do ensino médio para que ele participasse das mesmas classes de todas as meninas da escola
 Na Lakeside School, Bill Gates ajudou a codificar o sistema de programação de aulas, e ele e Paul Allen modificaram o software para que Gates estivesse em todas as aulas das meninas. Gates brincou dizendo que foi o único beneficiado, ficando ao lado das garotas legais.
