@@ -5,7 +5,8 @@ Este trabalho aborda a evolução dos sistemas operacionais, com ênfase no Wind
 
 
 ## Evolução dos Sistemas Operacionais (SO)
-A evolução dos sistemas operacionais pode ser dividida em três níveis, conforme o avanço do hardware e das necessidades de programação. **Primeiro Nível (1950)**:  Nos primeiros anos da computação, os sistemas operacionais eram simples e se limitavam a ajudar nas operações de entrada e saída de dados, além de traduzir programas escritos em linguagens muito básicas. 
+A evolução dos sistemas operacionais pode ser dividida em três níveis, conforme o avanço do hardware e das necessidades de programação.
+**Primeiro Nível (1950)**:  Nos primeiros anos da computação, os sistemas operacionais eram simples e se limitavam a ajudar nas operações de entrada e saída de dados, além de traduzir programas escritos em linguagens muito básicas. 
 
 **Segundo Nível (anos 1960)**:A partir dessa década, os sistemas operacionais evoluíram, oferecendo ferramentas mais avançadas, como tradutores de linguagem (para facilitar a programação) e programas de controle de entrada e saída (os IOCS), que ajudavam na transferência de dados entre os dispositivos e no gerenciamento do fluxo de informações.
 
@@ -67,16 +68,16 @@ O comando "taskkill" permite fechar um aplicativo sem usar o "Gerenciador de Tar
 ## Curiosidades
  ###  . Assista a Star Wars Episódio IV com o comando "telnet towel.blinkenlights.nl"
  Com o comando "telnet towel.blinkenlights.nl", você pode assistir a uma versão em texto de *Star Wars Episódio IV* no Prompt do Windows, uma forma divertida de aproveitar o terminal.
-
+![sistemas operacionais](https://s2-techtudo.glbimg.com/cm_K26yH6XDdxIDFTP-_tDzJBDw=/0x0:695x377/1000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/D/E/63BnaURVaB6uPpdcC7nw/2013-12-19-starwars.pnghttps://s2-techtudo.glbimg.com/cm_K26yH6XDdxIDFTP-_tDzJBDw=/0x0:695x377/1000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/D/E/63BnaURVaB6uPpdcC7nw/2013-12-19-starwars.png)
  ### . Gates desenvolveu seu primeiro software aos 13 anos
 Bill Gates entrou na Lakeside School, onde descobriu sua paixão por programação e conheceu Paul Allen, seu futuro parceiro na Microsoft. Aos 13 anos, desenvolveu seu primeiro software, um jogo da velha em BASIC, onde os jogadores competiam contra o computador.
-
+![sistemas operacionais](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5-U2ahOI1YVt2e2qvioB1P07E9FuMCdT-ig&s)
 ### . A primeira coisa em sua lista de coisas para fazer antes de morrer é não morrer
 Em 2013, Gates teve uma sessão “pergunte-me qualquer coisa” no site “Reddit”. Na ocasião, perguntaram a ele o que havia em sua lista de coisas para fazer antes de morrer. A resposta? “Não morrer.”
 
  ### . Gates ajustou o software que controlava o cronograma das aulas do ensino médio para que ele participasse das mesmas classes de todas as meninas da escola
 Na Lakeside School, Bill Gates ajudou a codificar o sistema de programação de aulas, e ele e Paul Allen modificaram o software para que Gates estivesse em todas as aulas das meninas. Gates brincou dizendo que foi o único beneficiado, ficando ao lado das garotas legais.
-
+![sistemas operacionais](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT95uuMNsTYnTfGS46_GHunv5L1p5fRx3RZjg&s)
 ### . Android passou o Windows quando os smartphones se popularizaram
 Antes do Android, o Windows era o sistema operacional mais usado em todo o mundo, independente da plataforma. No entanto, com o surgimento dos smartphones, o Android se tornou o sistema mais popular, representando 40% do uso global.
 
